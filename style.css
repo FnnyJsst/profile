@@ -1,0 +1,91 @@
+h1 {
+  font-family: lora;
+}
+
+h2 {
+  font-family: merriweather;
+  font-size: 20px;
+
+}
+
+h3 {
+  color: #49583F;
+
+}
+
+.like {
+  font-family: dancing script;
+  font-size: 25px;
+}
+
+body {
+  background-image: url('./images/3259804.jpg');
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+}
+
+.one {
+  background-color: #FFFFFF;
+  padding : 1em;
+  width: 55%;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  z-index: -1;
+  box-shadow: 13px 13px 60px 0px rgba(0,0,0,0.66);
+-webkit-box-shadow: 13px 13px 60px 0px rgba(0,0,0,0.66);
+-moz-box-shadow: 13px 13px 60px 0px rgba(0,0,0,0.66);
+  border-radius: 20px;
+}
+
+.button {
+  background-color: #59622D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: noto serif;
+  box-shadow: 10px -11px 15px 0px rgba(0,0,0,0.18);
+  -webkit-box-shadow: 10px -11px 15px 0px rgba(0,0,0,0.18);
+  -moz-box-shadow: 10px -11px 15px 0px rgba(0,0,0,0.18);
+  border-radius: 15px;
+}
+
+.button:hover {
+  background-color: #49583F;
+}
+
+.here {
+font-family: merriweather;
+color: black;
+}
+
+a {
+  color: rgb(19, 26, 26)
+}
+
+img {
+  background-size : contain;
+  background-position : 50% 50%;
+  background-image : url(/img/exemple/filter-image.jpg);
+  display : inline-block;
+  width : 150px; height : 150px;
+  border: none;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 75px;
+  box-shadow: 13px 13px 60px 0px rgba(0,0,0,0.66);
+-webkit-box-shadow: 13px 13px 60px 0px rgba(0,0,0,0.66);
+-moz-box-shadow: 13px 13px 60px 0px rgba(0,0,0,0.66);
+}
+
+a {
+  color: #49583F;
+  font-size: 40px;
+}
